@@ -121,9 +121,6 @@ Crypto Hub is a cutting-edge web application designed to be your one-stop destin
 ### Frontend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/username/crypto-dashboard.git
-cd crypto-dashboard
-
 # Install dependencies
 npm install
 
