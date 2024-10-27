@@ -26,7 +26,7 @@ Crypto Hub is a cutting-edge web application designed to be your one-stop destin
   - Market capitalization.
   - 24-hour trading volume.
   - Percentage change (24h, 7d, 30d).
-- Sort and filter cryptocurrencies by different metrics (e.g., price, market cap, volume).
+me).
 
 ### 3. Cryptocurrency Details
 - Historical price charts (using `Chart.js`).
