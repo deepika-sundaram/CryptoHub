@@ -11,7 +11,7 @@ Crypto Hub is a cutting-edge web application designed to be your one-stop destin
 
 **Objective**: To build a comprehensive cryptocurrency dashboard that provides real-time data on cryptocurrencies, including market prices, exchange information, news, blogs, and detailed cryptocurrency insights.
 
-**Target Audience**: Crypto enthusiasts, investors, analysts, and traders seeking up-to-date information on the global cryptocurrency market.
+
 
 ## Features
 
