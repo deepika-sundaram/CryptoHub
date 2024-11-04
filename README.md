@@ -18,6 +18,7 @@ Crypto Hub is a cutting-edge web application designed to be your one-stop destin
 ### 1. Dashboard Overview
 - Summary of major cryptocurrencies (e.g., Bitcoin, Ethereum) with key statistics like price, market capitalization, volume, and percentage change.
 - Global market overview with total market capitalization and overall market performance.
+- Real-time price tracking of cryptocurrencies.
 
 
 ### 2. Cryptocurrency Listings
